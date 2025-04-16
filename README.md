@@ -10,7 +10,7 @@
 
 ---
 **Year = 2025**  
-| No. | 算法简称 | 算法全称(英文名) | Year | 代码下载地址 |
+| No. | 算法简称 | 算法全称(下载地址) | Year | 期刊 |
 | --- | --- | --- | --- | --- | --- |
-|1|[ESO](https://doi.org/10.1016/j.eswa.2023.120594)|改进蛇形算法|2023|[code](https://mbd.pub/o/bread/aJeWmZlt?wxmsg=1)|
-|2|[ISO](https://doi.org/10.1016/j.eswa.2023.120594)|多策略改进蛇形算法|2025|[code](https://mbd.pub/o/bread/aJeWmZlt?wxmsg=1)|
+|1|[ESO](https://doi.org/10.1016/j.eswa.2023.120594)|改进蛇形算法(https://mbd.pub/o/bread/aJeWmZlt?wxmsg=1)|2023|Expert Systems with Applications|
+|2|[ISO](https://doi.org/10.1016/j.eswa.2023.120594)|多策略改进蛇形算法(https://mbd.pub/o/bread/aJeWmZlt?wxmsg=1)|2025|Expert Systems with Applications|
