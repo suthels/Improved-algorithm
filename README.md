@@ -10,6 +10,9 @@
 
 ---
 
+
+---
+
 | No. | 算法简称 | 算法全称(下载地址) | Year | 期刊 |
 | --- | --- | --- | --- | --- | 
 |1|[ESO](https://mbd.pub/o/bread/aJeWmZlt?wxmsg=1)|改进蛇形算法|2023|Expert Systems with Applications|
@@ -17,6 +20,11 @@
 |3|[ASFSSA](https://mbd.pub/o/bread/mbd-aJmTkppw)|基于随机变量的自适应螺旋飞行麻雀搜索算法|2021|Scientific Programming|
 |4|[ACGRIME](https://mbd.pub/o/bread/aZ6bm5pu)|用于全局优化和特征选择的自适应混沌高斯RIME优化器|2025| Cluster Computing |
 |5|[DMSSA](https://mbd.pub/o/bread/aZ6bm5pu)|双变异樽海鞘群算法|2022|  Journal of Bionic Engineering |
+|6|[AOAAO](https://mbd.pub/o/bread/aZ6bm5pu)|算术优化算法与Aquila Optimizer的混合算法|2022| IEEE Access |
+|7|[LMRAOA](https://mbd.pub/o/bread/aZ6bm5pu)|一种基于对立学习求解工程和数值问题的多领导者高速跳跃改进算术优化算法|2022| Alexandria Engineering Journal |
+|8|[MTV-SCA](https://mbd.pub/o/bread/aZ6bm5pu)|基于多试向量的正弦余弦算法|2024| Cluster Computing |
+
+
 
 **Ref**
 - **ESO**
@@ -30,3 +38,9 @@ Ouyang C, Qiu Y, Zhu D. Adaptive spiral flying sparrow search algorithm[J]. Scie
 Batis, M., Chen, Y., Wang, M. et al. ACGRIME: adaptive chaotic Gaussian RIME optimizer for global optimization and feature selection. Cluster Comput 28, 61 (2025). https://doi.org/10.1007/s10586-024-04716-9
 - **DMSSA**
 Lin, C., Wang, P., Zhao, X. et al. Double Mutational Salp Swarm Algorithm: From Optimal Performance Design to Analysis. J Bionic Eng 20, 184–211 (2023). https://doi.org/10.1007/s42235-022-00262-5
+- **AOAAO**
+Y.J. Zhang, Y.X. Yan, J. Zhao, Z.M. Gao, AOAAO: The Hybrid Algorithm of Arithmetic Optimization Algorithm With Aquila Optimizer, IEEE Access, 10 (2022), 10907-10933. doi:10.1109/ACCESS.2022.3144431.
+- **LMRAOA**
+Zhang Y J, Wang Y F, Yan Y X, et al. LMRAOA: An improved arithmetic optimization algorithm with multi-leader and high-speed jumping based on opposition-based learning solving engineering and numerical problems[J]. Alexandria Engineering Journal, 2022, 61(12): 12367-12403.
+- **MTV-SCA**
+Nadimi-Shahraki, M.H., Taghian, S., Javaheri, D. et al. MTV-SCA: multi-trial vector-based sine cosine algorithm. Cluster Comput 27, 13471–13515 (2024). https://doi.org/10.1007/s10586-024-04602-4
